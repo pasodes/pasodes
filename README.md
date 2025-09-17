@@ -23,9 +23,9 @@
 <h3 align="center">Technologies, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=paraview" title="Android Studio" alt="Android Studio" />
-  <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJs" alt="NodeJs" />
-  <img src="https://skillicons.dev/icons?i=expressjs" title="Express" alt="Express" />
+  <img src="https://skillicons.dev/icons?i=paraview" title="Paraview" alt="ParaView" />
+  <img src="https://skillicons.dev/icons?i=solidworks" title="NodeJs" alt="NodeJs" />
+  <img src="https://skillicons.dev/icons?i=openfoam" title="Express" alt="Express" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="VueJs" alt="VueJs" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
   <img src="https://skillicons.dev/icons?i=git" title="Git" alt="Git" />
