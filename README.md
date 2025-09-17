@@ -21,7 +21,7 @@
   <img src="logo/openfoam.svg" alt="Openfoam" width="150"/>  
   <img src="logo/starccm.webp" alt="Starccm" width="80"/>
   <img src="logo/nx.svg" alt="Nx" width="80"/>
-  <img src="logo/fusion.jpg" alt="Fusion" width="80"/>
+  <img src="logo/fusion.png" alt="Fusion" width="80"/>
   <img src="logo/solidedge.png" alt="Solidedge" width="150"/>
   <img src="logo/solidworks.png" alt="Solidworks" width="150"/>
 
