@@ -17,15 +17,15 @@
 
 <p align="center">
   <img src="logo/paraview.png" alt="Paraview" width="150"/>
-  <img src="logo/ansys.png" alt="Ansys" width="150"/>  
+  <img src="logo/ansys.png" alt="Ansys" width="130"/>  
   <img src="logo/openfoam.svg" alt="Openfoam" width="150"/>  
-  <img src="logo/starccm.webp" alt="Starccm" width="40"/>
-  <img src="logo/nx.svg" alt="Nx" width="40"/>
-  <img src="logo/fusion.png" alt="Fusion" width="40"/>
-  <img src="logo/solidedge.png" alt="Solidedge" width="150"/>
+  <img src="logo/starccm.webp" alt="Starccm" width="50"/>
+  <img src="logo/solidedge.png" alt="Solidedge" width="45"/>
+  <img src="logo/nx.svg" alt="Nx" width="50"/>
   <img src="logo/solidworks.png" alt="Solidworks" width="150"/>
+  <img src="logo/fusion.webp" alt="Fusion" width="50"/>
 
-  <img src="logo/vscode.svg" alt="Vscode" width="40"/>
+  <img src="logo/vscode.svg" alt="Vscode" width="50"/>
   <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" alt="PyCharm" />
   
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
