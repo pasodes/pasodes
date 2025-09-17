@@ -16,14 +16,15 @@
 <h3 align="center">Softwares & Tools</h3>
 
 <p align="center">
-  <img src="logo/paraview.png" alt="Paraview" width="150"/>
-  <img src="logo/ansys.png" alt="Ansys" width="130"/>  
-  <img src="logo/openfoam.svg" alt="Openfoam" width="150"/>  
-  <img src="logo/starccm.webp" alt="Starccm" width="50"/>
-  <img src="logo/solidedge.png" alt="Solidedge" width="45"/>
-  <img src="logo/nx.svg" alt="Nx" width="50"/>
-  <img src="logo/solidworks.png" alt="Solidworks" width="150"/>
+  <img src="logo/paraview.png" alt="Paraview" width="150" style="vertical-align: -500000px;"/>
+  <img src="logo/ansys.png" alt="Ansys" width="130" style="vertical-align: 50000px;"/>  
+  <img src="logo/openfoam.svg" alt="Openfoam" width="150"/> 
+  <img src="logo/solidworks.png" alt="Solidworks" width="130" style="margin-bottom:10px;"/>
+  
   <img src="logo/fusion.webp" alt="Fusion" width="50"/>
+  <img src="logo/starccm.webp" alt="Starccm" width="48"/>
+  <img src="logo/solidedge.png" alt="Solidedge" width="45"/>
+  <img src="logo/nx.svg" alt="Nx" width="65"/>
 
   <img src="logo/vscode.svg" alt="Vscode" width="50"/>
   <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" alt="PyCharm" />
