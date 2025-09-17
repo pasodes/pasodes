@@ -24,7 +24,7 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=paraview" title="Paraview" alt="ParaView" />
-  <img src="https://skillicons.dev/icons?i=solidworks" title="NodeJs" alt="NodeJs" />
+  <img src="https://skillicons.dev/icons?i=ansys" title="NodeJs" alt="NodeJs" />
   <img src="https://skillicons.dev/icons?i=openfoam" title="Express" alt="Express" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="VueJs" alt="VueJs" />
   <img src="https://skillicons.dev/icons?i=docker" title="Docker" alt="Docker" />
