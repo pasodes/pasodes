@@ -23,7 +23,7 @@
 <h3 align="center">Technologies, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio" title="Android Studio" alt="Android Studio" />
+  <img src="https://skillicons.dev/icons?i=paraview" title="Android Studio" alt="Android Studio" />
   <img src="https://skillicons.dev/icons?i=nodejs" title="NodeJs" alt="NodeJs" />
   <img src="https://skillicons.dev/icons?i=expressjs" title="Express" alt="Express" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="VueJs" alt="VueJs" />
