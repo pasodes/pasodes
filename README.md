@@ -14,19 +14,9 @@
 <h3 align="center">Languages</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript" title="JavaScript" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" title="HTML" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" title="CSS" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=java" title="Java" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=scala" title="Scala" alt="Scala" />
-  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" title="C++" alt="C++" />
-  <img src="https://skillicons.dev/icons?i=cs" title="C#" alt="C#" />
   <img src="https://skillicons.dev/icons?i=py" title="Python" alt="Python" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=c" title="C" alt="C" />
   <img src="https://skillicons.dev/icons?i=latex" title="LaTeX" alt="LaTeX" />
-  <img src="https://skillicons.dev/icons?i=md" title="Markdown" alt="Markdown" />
-  <img src="https://skillicons.dev/icons?i=gherkin" title="Gherkin" alt="Gherkin" />
 
 </p>
 
@@ -64,7 +54,7 @@
 <h2 align="center">Contacts</h2>
 
 <div align="center" id="badges">
-  <a href="https://github.com/PietroLelli">
+  <a href="https://github.com/pasodes">
     <img alt="GitHub" src="https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a> 
   <a href="https://www.linkedin.com/in/alessandro-pasolini-10813b234">
