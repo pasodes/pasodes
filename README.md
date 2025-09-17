@@ -16,13 +16,20 @@
 <h3 align="center">Softwares & Tools</h3>
 
 <p align="center">
-  <img src="SolidWorks_Logo.svg.png" alt="Solidworks" width="200"/>
+  <img src="logo/paraview.png" alt="Paraview" width="150"/>
+  <img src="logo/ansys.png" alt="Ansys" width="150"/>  
+  <img src="logo/openfoam.svg" alt="Openfoam" width="150"/>  
+  <img src="logo/starccm.webp" alt="Starccm" width="80"/>
+  <img src="logo/nx.svg" alt="Nx" width="80"/>
+  <img src="logo/fusion.jpg" alt="Fusion" width="80"/>
+  <img src="logo/solidedge.png" alt="Solidedge" width="150"/>
+  <img src="logo/solidworks.png" alt="Solidworks" width="150"/>
 
-  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
-
-  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
-
+  <img src="logo/vscode.svg" alt="Vscode" width="40"/>
   <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm" alt="PyCharm" />
+  
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub" alt="GitHub" />
+  <img src="https://skillicons.dev/icons?i=gitlab" title="GitLab" alt="GitLab" />
 
 <h3 align="center">Programming Languages</h3>
 
