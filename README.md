@@ -15,7 +15,7 @@
 
 <h3 align="center">Softwares & Tools</h3>
 
-<p align="center">
+<p>
   <img src="logo/paraview.png" alt="Paraview" width="150" style="vertical-align: -500000px;"/>
   <img src="logo/ansys.png" alt="Ansys" width="130" style="vertical-align: 50000px;"/>  
   <img src="logo/openfoam.svg" alt="Openfoam" width="150"/> 
