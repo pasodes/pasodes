@@ -23,7 +23,7 @@
 <h3 align="center">Technologies, Frameworks & Tools</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=paraview" title="Paraview" alt="ParaView" />
+  <img src="assets/ansys.svg" alt="ANSYS" width="40"/>
   <img src="https://skillicons.dev/icons?i=ansys" title="NodeJs" alt="NodeJs" />
   <img src="https://skillicons.dev/icons?i=openfoam" title="Express" alt="Express" />
   <img src="https://skillicons.dev/icons?i=vuejs" title="VueJs" alt="VueJs" />
